@@ -1,0 +1,14 @@
+{
+"motd": "Meu PocketLua Server",
+"ip": "0.0.0.0",
+"port": "19132",
+"white-listed": "false",
+"spawn-animals": "true",
+"spawn-mobs": "true",
+"pvp": "true",
+"difficulty": "1",
+"generator-settings": "",
+"level-seed": "",
+"max-players": "20",
+"auto-save": "true"
+}
